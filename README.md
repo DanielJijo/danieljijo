@@ -22,15 +22,11 @@
 
 ## 📌 Featured Projects
 
-### 🚀 [Portfolio](https://github.com/DanielJijo/Portfolio)  
+### 🚀 [Portfolio](https://danieljijo.vercel.app/)  
 A sleek personal portfolio website built with TypeScript, showcasing my skills, projects, and web development journey. Fully responsive and designed with performance in mind.
-
----
 
 ### 💄 [Teena Makeovers](https://github.com/DanielJijo/teena-makeovers)  
 Developed for a professional makeup artist, this website highlights services, offers easy appointment booking, and reflects an elegant brand personality.
-
----
 
 ### 📅 [Habitsync](https://github.com/DanielJijo/Habitsync)  
 A habit tracking web app designed to boost productivity. Built with TypeScript and a clean UI to help users build routines and stay on track.
@@ -44,8 +40,17 @@ A habit tracking web app designed to boost productivity. Built with TypeScript a
 
 ---
 
+## 📈 Activity Graph
+
+[![Daniel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danieljijo&bg_color=1d1b1c&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 📫 Get in Touch
 
 📧 Email: [danieljijopp@gmail.com](mailto:danieljijopp@gmail.com)  
-🌐 Portfolio: [https://danieljijo.vercel.app](https://danieljijo.vercel.app)
+🌐 Portfolio: [danieljijo.vercel.app](https://danieljijo.vercel.app)  
+🔗 LinkedIn: [linkedin.com/in/daniel-jijo](https://www.linkedin.com/in/daniel-jijo/)  
+📸 Instagram: [_.danzzz__](https://www.instagram.com/_.danzzz__/)
 
+---
