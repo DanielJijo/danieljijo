@@ -1,37 +1,50 @@
-## Hi there 👋 I'm Daniel Jijo!
+## 👋 Hi there, I'm Daniel Jijo!
 
-💻 A passionate Computer Science Engineering student  
-🌱 Currently exploring Full-Stack Development (MERN Stack)  
-🎯 Focused on building real-world projects and growing everyday  
-📫 Reach me at: [danieljijopp@gmail.com](mailto:danieljijopp@gmail.com)
-
----
-
-### 🔧 Technologies & Tools
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
+🎓 I'm a Computer Science Engineering student with a passion for full-stack development, especially the MERN stack.  
+💡 I love turning ideas into interactive, responsive web apps with clean code and a creative touch.  
+📚 Always learning, always building — one project at a time.
 
 ---
 
-### 🚀 Projects
-- [Teena Makeovers Portfolio](https://teena-makeovers.vercel.app/) — A clean portfolio site for a makeup artist.
-- [QR Code Generator](#) — Simple tool to create QR codes (Coming soon).
-- More coming soon...
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-### 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljijo&show_icons=true&theme=radical)
+## 📌 Featured Projects
+
+### 🚀 [Portfolio](https://github.com/DanielJijo/Portfolio)  
+A sleek personal portfolio website built with TypeScript, showcasing my skills, projects, and web development journey. Fully responsive and designed with performance in mind.
 
 ---
 
-<!-- You can comment out sections below if you don't want them visible -->
-<!--
-**danieljijo/danieljijo** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+### 💄 [Teena Makeovers](https://github.com/DanielJijo/teena-makeovers)  
+Developed for a professional makeup artist, this website highlights services, offers easy appointment booking, and reflects an elegant brand personality.
+
+---
+
+### 📅 [Habitsync](https://github.com/DanielJijo/Habitsync)  
+A habit tracking web app designed to boost productivity. Built with TypeScript and a clean UI to help users build routines and stay on track.
+
+---
+
+## 📊 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielJijo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJijo&layout=compact&theme=radical)
+
+---
+
+## 📫 Get in Touch
+
+📧 Email: [danieljijopp@gmail.com](mailto:danieljijopp@gmail.com)  
+🌐 Portfolio: [Coming Soon!]
