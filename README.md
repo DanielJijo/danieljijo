@@ -49,7 +49,7 @@ A habit tracking web app designed to boost productivity. Built with TypeScript a
 ## 📫 Get in Touch
 
 📧 Email: [danieljijopp@gmail.com](mailto:danieljijopp@gmail.com)  
-🌐 Portfolio: [danieljijo.vercel.app]((https://danieljijo-portfolio.vercel.app/))  
+🌐 Portfolio: [danieljijo.vercel.app](https://danieljijo-portfolio.vercel.app/)
 🔗 LinkedIn: [linkedin.com/in/daniel-jijo](https://www.linkedin.com/in/daniel-jijo/)  
 📸 Instagram: [_.danzzz__](https://www.instagram.com/_.danzzz__/)
 
